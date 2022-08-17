@@ -39,7 +39,7 @@
  
           ?></a></li>
         <li><a href="">Configurações</a></li>
-    <li><a href="<?php echo URL_BASE?>/home.php">Chats</a></li>
+    <li><a href="<?php echo URL_BASE?>/index.php">Chats</a></li>
   </ul>
 <script>
     document.addEventListener('DOMContentLoaded', function() {

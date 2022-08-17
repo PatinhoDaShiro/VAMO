@@ -363,14 +363,29 @@ body{
         
     }
 }
-@media screen and (max-width: 430px) and (min-width: 100px){
+@media screen and (max-width: 450px) and (min-width: 356px){
     #bemvindo{
         font-size: 1rem;
     }
 }
-@media screen and (max-width: 355px) and (min-width: 100px){
+@media screen and (max-width: 355px) and (min-width: 284px){
     #bemvindo{
         font-size: 0.8rem;
+    }
+}
+@media screen and (max-width: 283px) and (min-width: 243px){
+    #bemvindo{
+        font-size: 0.7rem;
+    }
+}
+@media screen and (max-width: 243px) and (min-width: 214px){
+    #bemvindo{
+        font-size: 0.6rem;
+    }
+}
+@media screen and (max-width: 214px) and (min-width: 100px){
+    #bemvindo{
+        font-size: 0.6rem;
     }
 }
 @media screen and (max-width: 400px) and (min-width: 300px){
